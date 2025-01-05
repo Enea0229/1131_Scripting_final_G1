@@ -1,3 +1,5 @@
+# Crypto 資訊系統
+第一組-期末作業
 # Virtual Enviroment (if oyu need)
 https://pythonviz.com/vscode/visual-studio-code-virtual-environment-setup/ (virtual env 參考)
 pip install virtualenv
