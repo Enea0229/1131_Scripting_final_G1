@@ -141,10 +141,10 @@ class CryptoApp:
         )
         self.search_button.grid(row=0, column=2, columnspan=2, padx=10, pady=30, sticky="w")  # 修改1
 
-        # 資料庫搜尋按鈕
+        # 筆記本按鈕
         self.search_database_button = ttkb.Button(
             self.root,
-            text="資料庫搜尋",
+            text="筆記本",
             command=self.open_search_window,
             style="MetroButton.Purple.TButton",  # 套用自訂樣式
         )
