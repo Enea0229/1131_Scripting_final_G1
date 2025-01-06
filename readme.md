@@ -1,5 +1,5 @@
 # crpto_info
-第一組-期末作業-Crypto 資訊系統
+Crypto 資訊系統
 
 # Virtual Enviroment (if oyu need)
 https://pythonviz.com/vscode/visual-studio-code-virtual-environment-setup/ (virtual env 參考)
