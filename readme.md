@@ -1,4 +1,4 @@
-# 第一組-期末作業
+# 1131_Scripting_final_G1
 Crypto 資訊系統
 
 # Virtual Enviroment (if oyu need)
