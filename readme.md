@@ -30,7 +30,7 @@ pip install black (for PEB8) (-1)
 # scraper url
 新聞:
 "https://www.binance.com/zh-TC/square/news/all"
-幣價:
+ 幣價:
 "https://tw.tradingview.com/markets/cryptocurrencies/prices-all/"
 
 # execute
